@@ -6,7 +6,7 @@ title = "An Ontology of the Submarine Relief for Analysis and Representation on 
 date = "2015-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jingya Yan", "Eric Guilbert", "Eric Saux"]
+authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
 
 # Publication type.
 # Legend:
@@ -33,13 +33,17 @@ abstract = "A nautical chart is a kind of map used to describe the seafloor morp
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["PHDproj"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Ontology", "Nautical chart", "Submarine relief", "Representation", "Undersea features"]
 
 # Links (optional).
 url_pdf = ""
@@ -65,7 +69,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "PDO.png"
 caption = ""
 
 +++

@@ -6,7 +6,7 @@ title = "An Ontology for Submarine Feature Representation on Charts"
 date = "2013-11-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jingya Yan", "Eric Guilbert", "Eric Saux"]
+authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
 
 # Publication type.
 # Legend:
@@ -33,13 +33,13 @@ abstract = "A landform is a subjective individuation of a part of a terrain. Lan
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["PHDproj"]
 
 # Links (optional).
 url_pdf = ""

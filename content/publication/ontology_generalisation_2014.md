@@ -6,7 +6,7 @@ title = "An Ontology for the Generalisation of the Bathymetry on Nautical Charts
 date = "2014-11-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jingya Yan", "Eric Guilbert", "Eric Saux"]
+authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
 
 # Publication type.
 # Legend:
@@ -33,13 +33,15 @@ abstract = "On nautical charts, undersea features are portrayed by sets of sound
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["PHDproj"]
+
+tags = ["Cartography", "Bathymetry", "Generalization", "DEM/DTM"]
 
 # Links (optional).
 url_pdf = "https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-2/1/2014/isprsannals-II-2-1-2014.pdf"
