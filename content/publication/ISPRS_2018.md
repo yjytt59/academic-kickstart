@@ -20,7 +20,7 @@ authors = ["__Jingya Yan__", "Siow Wei JAW", "Rob Van Son", "Kean Huat SOON", "G
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ISPRS Technical Commission IV Symposium 2018."
+publication = "In *ISPRS Technical Commission IV Symposium 2018*"
 publication_short = ""
 
 # Abstract and optional shortened version.

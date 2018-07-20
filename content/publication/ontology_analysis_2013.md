@@ -20,7 +20,7 @@ authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Cartographic Journal."
+publication = "The Cartographic Journals"
 publication_short = ""
 
 # Abstract and optional shortened version.
