@@ -3,7 +3,7 @@
 title = "Three-Dimensional Data Modelling for Underground Utility Network Mapping"
 
 # Date first published.
-date = "2018-10-01"
+date = "2018-06-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["__Jingya Yan__", "Siow Wei JAW", "Rob Van Son", "Kean Huat SOON", "Gerhard SCHROTTER"]
