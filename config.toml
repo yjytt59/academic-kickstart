@@ -200,7 +200,7 @@ enableGitInfo = false
   [params.projects]
     # List publications and talks related to the project?
     list_children = true
-
+    {{< list_tags >}}
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed

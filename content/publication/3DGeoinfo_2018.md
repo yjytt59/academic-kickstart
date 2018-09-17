@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.5194/isprs-archives-XLII-4-W10-209-2018"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
